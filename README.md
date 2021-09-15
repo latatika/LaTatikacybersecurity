@@ -1,2 +1,2 @@
-# LatTatikacybersecurity
+# LaTatikacybersecurity
 UNCC-Cyber Security
